@@ -2,8 +2,8 @@ name := "example-sbt"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.11.8"
 
 libraryDependencies += "org.mindrot" % "jbcrypt" % "0.3m"
 
-libraryDependencies += "net.liftweb" %% "lift-webkit" % "2.5.1"
+libraryDependencies += "net.liftweb" %% "lift-webkit" % "3.0-M4"
