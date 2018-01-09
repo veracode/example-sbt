@@ -6,4 +6,4 @@ scalaVersion := "2.11.8"
 
 libraryDependencies += "org.mindrot" % "jbcrypt" % "0.3m"
 
-libraryDependencies += "net.liftweb" %% "lift-webkit" % "3.0-M4"
+libraryDependencies += "net.liftweb" %% "lift-webkit" % "3.2.0-M3"
